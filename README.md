@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slametsampon
-- 👀 I’m interested in IoT
+- 👀 I’m interested in IoT (Arduino, ESP32, ESP-8266), Web Development (Back end - Django, Express, Front End - React)
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Software house
 - 📫 How to reach me :slamet@pon.co.id
